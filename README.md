@@ -10,4 +10,6 @@ Also has the option to not serve the image (disabling previews) if a hard-coded 
 
 On Windows, run the script with Python. I have no idea if you need admin rights.
 
-You can then try it out on http://localhost/image.jpeg
+You can then try it out on http://localhost/image.jpeg*
+
+* Change port if running on a non-standard (80 or 443) port
